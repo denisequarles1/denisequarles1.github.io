@@ -21,7 +21,7 @@ It also focuses on marketing based on the buying habits of a company's potential
 
 2. Clone the repo by copying the key.
 
-3. Use GitBash to enter the following: "git clone [key]
+3. Use GitBash to enter the following: git clone [key]
 
 4. The repository will then be copied onto your computer and you can run the index file to see the Horiseon website.
 
