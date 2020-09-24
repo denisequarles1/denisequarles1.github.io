@@ -1,4 +1,4 @@
-# Horiseon
+# denisequarles1.github.io
 
 ## Table of Contents
 * [Description](#description)
@@ -27,7 +27,7 @@ It also focuses on marketing based on the buying habits of a company's potential
 4. The repository will then be copied onto your computer and you can run the index file to see the Horiseon website.
 
 ## Link to Deployed Application
-The deployed application can be found here: 
+The deployed application can be found here: https://denisequarles1.github.io/
 
 
 ## Credits
