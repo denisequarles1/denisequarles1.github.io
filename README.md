@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
+* [Application](#application)
 * [Credits](#credits)
 
 ## Description
@@ -17,8 +17,7 @@ It also focuses on marketing based on the buying habits of a company's potential
  
 
 ## Installation
-1. Access the GitHub repository called Horiseon using the following link: https://github.com/denisequarles1/Horiseon
-
+1. Access the GitHub repository called denisequarles1.github.io using the following link: https://github.com/denisequarles1/denisequarles1.github.io#credits
 
 2. Clone the repo by copying the key.
 
@@ -26,7 +25,7 @@ It also focuses on marketing based on the buying habits of a company's potential
 
 4. The repository will then be copied onto your computer and you can run the index file to see the Horiseon website.
 
-## Link to Deployed Application
+## Application
 The deployed application can be found here: https://denisequarles1.github.io/
 
 
