@@ -17,7 +17,7 @@ It also focuses on marketing based on the buying habits of a company's potential
  
 
 ## Installation
-1. Access the GitHub repository called denisequarles1.github.io using the following link: https://github.com/denisequarles1/denisequarles1.github.io#credits
+1. Access the GitHub repository called denisequarles1.github.io using the following link: https://github.com/denisequarles1/denisequarles1.github.io
 
 2. Clone the repo by copying the key.
 
